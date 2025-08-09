@@ -1,8 +1,6 @@
 {
-  "name": "horse-to-notion",
+  "name": "notion-herd-tracker-trigger",
+  "version": "1.0.0",
   "private": true,
-  "type": "module",
-  "dependencies": {
-    "@notionhq/client": "^2.2.15"
-  }
+  "engines": { "node": ">=18" }
 }
